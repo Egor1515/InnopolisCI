@@ -22,6 +22,7 @@ public class MainTest {
         Configuration.holdBrowserOpen = true;
 
         open("https://youtube.com");
+        searchButton.click();
 
 
 
