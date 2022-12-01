@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-29T10:53:22" hostname="DESKTOP-6S2MP0J" time="8.068">
+<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-01T13:18:31" hostname="DESKTOP-6S2MP0J" time="9.114">
   <properties/>
-  <testcase name="should()" classname="MainTest" time="8.068"/>
+  <testcase name="should()" classname="MainTest" time="9.114"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: No SLF4J providers were found.
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
-Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 32522
+Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 20620
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
